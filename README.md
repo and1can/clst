@@ -42,6 +42,7 @@ Three ways to sort:
         4) Nan is last because it is not a number in python. Similar reasoning for 3) why 4) is after 1) and 2). 
 
 Next steps:
+
     1) Sort phone numbers by area code that is closest to me first for the group that does not match with the area code that user is querying. Web scraping can help determine the area code metric between me and the others in the json file. 
 
     2) An additional improvement for the phone numbers, is to sort the entries alphabetically for each cluster (a cluster being a group that has the same area code). 
