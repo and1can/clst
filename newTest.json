@@ -1,0 +1,97 @@
+[
+    {
+        "phone": "646.123.4567", 
+        "nickname": "Me", 
+        "email": "kakashi@naruto.shippuden", 
+        "name": "Kakashi Hatake"
+    }, 
+    {
+        "phone": "908-999-8888", 
+        "email": "ali@mac.com", 
+        "name": "Ali"
+    }, 
+    {
+        "email": "support@apple.com", 
+        "name": "Apple"
+    }, 
+    {
+        "phone": "646.000.4567", 
+        "email": "ku@gmail.com", 
+        "name": "Kushina Uzumaki"
+    }, 
+    {
+        "phone": "215.123.4567", 
+        "email": "naruto@naruto.shippuden", 
+        "name": "Naruto Uzumaki"
+    }, 
+    {
+        "phone": "908.000.4567", 
+        "email": "narutou@gmail.com", 
+        "name": "Naruto Uzumaki"
+    }, 
+    {
+        "phone": "415) 864-8643", 
+        "name": "nopa"
+    }, 
+    {
+        "phone": "(646) 888 - 8888", 
+        "name": "S"
+    }, 
+    {
+        "phone": "908-999-8888", 
+        "email": "sandeep@naruto.shippuden", 
+        "name": "Sandeep Smith"
+    }, 
+    {
+        "phone": "908.123.4567", 
+        "nickname": "Sandy", 
+        "email": "sandysandy@gmail.COM", 
+        "name": "Sandy"
+    }, 
+    {
+        "phone": "646.444.4567", 
+        "name": "Sasuke"
+    }, 
+    {
+        "email": "su@aol.com", 
+        "name": "Sasuke U"
+    }, 
+    {
+        "email": "su@Yahoo.com", 
+        "name": "Sasuke U"
+    }, 
+    {
+        "email": "su@gmail.com", 
+        "name": "Sasuke U."
+    }, 
+    {
+        "email": "su@somebiz.com", 
+        "name": "Sasuke U."
+    }, 
+    {
+        "phone": "+1 646.111.4567", 
+        "name": "Sasuke Uchiha"
+    }, 
+    {
+        "phone": "(646) 888 - 8888", 
+        "email": "susiesu@Mac.com", 
+        "name": "susie"
+    }, 
+    {
+        "phone": "1 (215)-999-8888", 
+        "email": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25", 
+        "name": "uchiha clan"
+    }, 
+    {
+        "phone": "111.111.4444", 
+        "email": "zz@zed.com", 
+        "name": "zed"
+    }, 
+    {
+        "email": "sally@somebiz.com", 
+        "name": ""
+    }, 
+    {
+        "email": "joey@gmail.com"
+    }
+]
